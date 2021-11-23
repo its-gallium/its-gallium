@@ -2,6 +2,8 @@
 
 [![Website](https://img.shields.io/badge/Evo's%20World-My%20Website-brightgreen)](http://evos.world/) [![Discord Server](https://img.shields.io/badge/Flux-My%20Discord-blue)](https://discord.gg/SfDdjz83NC)
 
+<iframe src="https://evo-updater.glitch.me/github-newspage.html" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="100px" width="500px" allowfullscreen></iframe>
+
 I have a lot of experience with Python.  I know basic HTML and CSS too.
 
 I am using PyCharm for Python coding and Visual Studio Code for other languages.
