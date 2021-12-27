@@ -7,6 +7,8 @@
 <p align="center"> I am using PyCharm for Python coding and Visual Studio Code for other languages. </p>
 <p align="center"> I was born in Austria, a small country in middle Europe, but I am living in </p>
 <p align="center"> Sweden for some time now, to be accurate in Småland, that's in the south of Sweden. </p>
+<center>
 <a href="https://github.com/evo0616lution">
          <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=evo0616lution&show_icons=true&theme=midnight-purple&count_private=true)">
       </a>
+</center>
