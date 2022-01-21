@@ -10,6 +10,7 @@
 <p align="center">
 <a href="https://github.com/evo0616lution">
          <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=evo0616lution&show_icons=true&theme=midnight-purple&count_private=true)">
+         <p></p>
          <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evo0616lution">
          </a>
 </p>
