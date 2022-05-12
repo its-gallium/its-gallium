@@ -3,7 +3,7 @@
 <p align="center"> <a href="https://discord.gg/SfDdjz83NC"><img src="https://discord.c99.nl/widget/theme-2/895909117833654272.png" alt="discord"/></a> </p>
 
 <p align="center"> I have a lot of experience with Python 🐍. I know basic HTML and CSS too 👨‍💻. </p>
-<p align="center"> I use Code OSS (A fork of Visual Studio Code for Linux) for general coding. </p>
+<p align="center"> I use  Visual Studio Code for Linux for general coding. </p>
 <p align="center"> I was born in Austria, a small country in middle Europe, but I am living in </p>
 <p align="center"> Sweden for some time now, to be accurate in Småland, that's in the south of Sweden. </p>
 <p align="center">
