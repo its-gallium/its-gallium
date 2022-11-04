@@ -1,7 +1,7 @@
 ## Hello, I am Evo!
 <p align="center"> <a href="https://discord.gg/SfDdjz83NC"><img src="https://img.shields.io/badge/Join-My%20Discord-blue" alt="server"/></a> </p>
 <p align="center"> <a href="https://discord.gg/SfDdjz83NC"><img src="https://discord.c99.nl/widget/theme-2/895909117833654272.png" alt="discord"/></a> </p>
-<p align="center"> ❗ Most of my projects do not work anymore, unfortunately. ❗</p>
+<p align="center"> ❗ Most of my projects do not work anymore, unfortunately. ❗ (Nukecord still works)</p>
 <p align="center"> I have a lot of experience with Python 🐍. I know basic HTML and CSS too 👨‍💻. </p>
 <p align="center"> I use  Visual Studio Code for Linux for general coding. </p>
 <p align="center"> I was born in Austria, a small country in middle Europe, but I am living in </p>
