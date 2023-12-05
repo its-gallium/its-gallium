@@ -9,7 +9,7 @@
 <p align="center"> Unfortunately I just moved back... </p>
 <p align="center">
 <a href="https://github.com/pacify">
-         <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=its-gallium&show_icons=true&theme=midnight-purple&count_private=true)">
-         <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-gallium&langs_count=10&show_icons=true&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8">
+         <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=its-theo&show_icons=true&theme=midnight-purple&count_private=true)">
+         <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-theo&langs_count=10&show_icons=true&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8">
          </a>
 </p>
